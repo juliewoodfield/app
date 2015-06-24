@@ -1,2 +1,2 @@
 # app
-App
+Repository for the app development
